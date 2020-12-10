@@ -1,0 +1,13 @@
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-polimorfismo\bin\Debug\netcoreapp3.1\POO-polimorfismo.exe
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-polimorfismo\bin\Debug\netcoreapp3.1\POO-polimorfismo.deps.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-polimorfismo\bin\Debug\netcoreapp3.1\POO-polimorfismo.runtimeconfig.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-polimorfismo\bin\Debug\netcoreapp3.1\POO-polimorfismo.runtimeconfig.dev.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-polimorfismo\bin\Debug\netcoreapp3.1\POO-polimorfismo.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-polimorfismo\bin\Debug\netcoreapp3.1\POO-polimorfismo.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-polimorfismo\obj\Debug\netcoreapp3.1\POO-polimorfismo.csprojAssemblyReference.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-polimorfismo\obj\Debug\netcoreapp3.1\POO-polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-polimorfismo\obj\Debug\netcoreapp3.1\POO-polimorfismo.AssemblyInfo.cs
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-polimorfismo\obj\Debug\netcoreapp3.1\POO-polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-polimorfismo\obj\Debug\netcoreapp3.1\POO-polimorfismo.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-polimorfismo\obj\Debug\netcoreapp3.1\POO-polimorfismo.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-polimorfismo\obj\Debug\netcoreapp3.1\POO-polimorfismo.genruntimeconfig.cache
